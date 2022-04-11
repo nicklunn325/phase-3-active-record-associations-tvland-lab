@@ -124,3 +124,10 @@ Write a migration that adds the column `catchphrase` as a string to your
 - [Active Record Associations](http://guides.rubyonrails.org/association_basics.html)
 - [API dock - Active Record Associations](https://apidock.com/rails/ActiveRecord/Associations/ClassMethods)
 - [Active Record Migrations](https://guides.rubyonrails.org/active_record_migrations.html)
+
+## EXTRA DELIVERABLES (NOT TESTED)
+
+#### Actor
+
+- `.alphabetical_order`: should return a list of all actors in alphabetical order by last_name
+- `.most_gigs`: should return the actor who has the most characters
